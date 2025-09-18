@@ -1,0 +1,30 @@
+---
+title: "Organization Membership"
+description: "How to add/remove members to organizations and assign roles"
+---
+
+## Adding members to organizations
+
+Select the down arrow next to your name. Then select My Settings.
+
+![My settings](/images/my-settings.png)
+
+Navigate to the Organizations tab and select the relevant organization. 
+
+Navigate to the Members tab. 
+
+Select Invite Member. Type email address of member you would like to add. Select from dropdown and select Save. 
+
+![Add member](/images/add-member.png)
+
+## Assigning organization roles
+
+Navigate to the user in the members list then select the three-dot menu. Navigate to Change role and select relevant roles for the user.
+
+![Assign roles](/images/assign-roles.png)
+
+## Removing members from organizations
+
+Navigate to the user in the members list then select the three-dot menu. Select Remove member. 
+
+![Remove member](/images/remove-member.png)
